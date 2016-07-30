@@ -4,12 +4,26 @@ body {
 
 .home {
 	color: #FFFFFF;
+	font-family: sans-serif;
+	text-align: center;
 }
-h2 {
+
+h1 {
 	color: #FFFFFF;
+	font-family: 'Syncopate', cursive;
 	text-align:center;
 }
 
+figure {
+	color: #FFFFFF;
+	font-family: 'Syncopate', cursive;
+	margin: 0px auto 0px auto;
+	text-align: center;
+}
+
+figcaption {
+	padding: 10px;
+}
 slider.img {
 	border: 3px solid #FFFFFF;
 	width: 240px;
