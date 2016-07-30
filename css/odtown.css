@@ -1,10 +1,14 @@
 body {
 	background: #222222;
 }
+
+ul.navigation {
+	color: #FFFFFF;
+	display: inline;
+}
 h2 {
 	color: #FFFFFF;
 	text-align:center;
-	position:fixed;
 }
 
 slider.img {
@@ -13,10 +17,7 @@ slider.img {
 	padding: 50px;
 	margin: 10px auto 10px auto;
 }
-ul.navigation {
-	color: #FFFFFF;
-	display: inline;
-}
+
 .slider-for {
 margin: 50px auto;
 position: relative;
@@ -25,7 +26,6 @@ height: 600px;
 padding: 10px;
 box-shadow: 0 0 20px rgba(0,0,0,4);
 display: inline-block;
-display: none;
 }
 
 .slider-nav {
