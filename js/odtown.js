@@ -1,4 +1,4 @@
-/* Code for slideshow carousel from: http://kenwheeler.github.io/slick/)
+// Code for slideshow carousel from: http://kenwheeler.github.io/slick/
 
 $('.slider-for').slick({
   slidesToShow: 1,

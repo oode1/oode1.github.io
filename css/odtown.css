@@ -1,3 +1,38 @@
 body {
 	background: #222222;
 }
+h2 {
+	color: #FFFFFF;
+	text-align:center;
+	position:fixed;
+}
+
+slider.img {
+	border: 3px solid #FFFFFF;
+	width: 240px;
+	padding: 50px;
+	margin: 10px auto 10px auto;
+}
+ul.navigation {
+	color: #FFFFFF;
+	display: inline;
+}
+.slider-for {
+margin: 50px auto;
+position: relative;
+width: 600px;
+height: 600px;
+padding: 10px;
+box-shadow: 0 0 20px rgba(0,0,0,4);
+display: inline-block;
+display: none;
+}
+
+.slider-nav {
+	margin: 50px auto;
+	position: relative;
+	width: 240px;
+	height: 240px;
+	padding: 10px;
+	box-shadow: 0 0 20px rbga(0,0,0,4);
+}
